@@ -25,3 +25,6 @@ yarn add -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 install the tailwind plugin in VS
+
+## VS Code Extensions:
+inline fold
