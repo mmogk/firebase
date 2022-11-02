@@ -26,5 +26,8 @@ npx tailwindcss init -p
 
 install the tailwind plugin in VS
 
+## Dot Env Installation
+npm i dotenv
+
 ## VS Code Extensions:
 inline fold
